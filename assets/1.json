@@ -1,0 +1,19 @@
+{
+    "name": "NEON",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "699F4xoZxfb4EdB2kb1PU95GkQPLpC8GsivbtqGgyYAh",
+          "share": 100
+        }
+      ]
+    }
+  }
